@@ -4,4 +4,4 @@ The goal of this project is to learn more about neural networks to eventually de
 ## Whats Included
 This repo contains two neural networks. 
 - Starter Model: Simple model utilizing the iris dataset to predict classes of flowers.
-- CNN Model: Utilizes MINST dataset to predict a number in range 0-9 based off a 32x32 image.
+- CNN Model: Utilizes MNIST dataset to predict a number in range 0-9 based off a 32x32 image.
